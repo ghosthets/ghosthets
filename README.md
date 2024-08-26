@@ -38,7 +38,7 @@
 ---
 
 > **“The quieter you become, the more you are able to hear.”**  
-> *- Ram Dass*
+> *- who am i*
 
 <!---
 ghosthets/ghosthets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
