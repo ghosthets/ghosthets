@@ -13,8 +13,8 @@
 - **Cybersecurity research** with a focus on web application security.
 
 ## 📫 How to Reach Me
-- Feel free to connect with me on GitHub or drop me a message on [LinkedIn](https://www.linkedin.com).
-- Email: ghosthets@example.com
+- Feel free to connect with me on GitHub or drop me a message on [LinkedIn](https://www.linkedin.com/ghosthets).
+- Email: ghosthets@proton.me
 
 ## 😄 Pronouns
 - He/Him
