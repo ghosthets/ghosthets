@@ -1,5 +1,42 @@
 # 💫 About Me:
-ghosthets/README.md<br>👋 Hi there, I'm @ghosthets 👻<br>🌐 About Me<br>Cybersecurity Enthusiast: Exploring the vast world of cybersecurity, Certified Ethical Hacking (CEH), and web exploitation.<br>Bug Hunter: Passionate about finding and reporting security vulnerabilities to make the digital world safer.<br>Location: Based in India, constantly learning and evolving in the cybersecurity space.<br>🚀 Currently Learning<br>Web Exploitation: Enhancing my skills in exploiting and securing web applications.<br>Advanced Ethical Hacking: Diving into advanced tactics and tools to stay ahead in the cybersecurity game.<br>🤝 Let's Collaborate!<br>Bug Bounty Programs: Let's join forces to identify and fix vulnerabilities in real-world applications.<br>Cybersecurity Research: Interested in collaborative research on emerging threats and security trends.<br>📬 Get in Touch<br>LinkedIn: Connect with me<br>Email: ghosthets@proton.me<br>😄 Pronouns<br>He/Him<br>🎯 Fun Fact<br>I love diving into cryptography puzzles and unraveling the mysteries of hidden codes when I'm not busy hunting bugs.<br>“The quieter you become, the more you are able to hear.”<br>- who am i
+# 👋 Hi there, I'm [@ghosthets](https://github.com/ghosthets) 👻
+
+---
+
+## 🌐 About Me
+- **Cybersecurity Enthusiast:** Exploring the vast world of **cybersecurity**, **Certified Ethical Hacking (CEH)**, and **web exploitation**.
+- **Bug Hunter:** Passionate about finding and reporting security vulnerabilities to make the digital world safer.
+- **Location:** Based in **India**, constantly learning and evolving in the cybersecurity space.
+
+---
+
+## 🚀 Currently Learning
+- **Web Exploitation:** Enhancing my skills in exploiting and securing web applications.
+- **Advanced Ethical Hacking:** Diving into advanced tactics and tools to stay ahead in the cybersecurity game.
+
+---
+
+## 🤝 Let's Collaborate!
+- **Bug Bounty Programs:** Let's join forces to identify and fix vulnerabilities in real-world applications.
+- **Cybersecurity Research:** Interested in collaborative research on emerging threats and security trends.
+
+---
+
+## 📬 Get in Touch
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ghosthets)
+- **Email:** [ghosthets@proton.me](mailto:ghosthets@proton.me)
+
+---
+
+## 😄 Pronouns
+- He/Him
+
+---
+
+## 🎯 Fun Fact
+- I love diving into cryptography puzzles and unraveling the mysteries of hidden codes when I'm not busy hunting bugs.
+
+---
 
 
 ## 🌐 Socials:
