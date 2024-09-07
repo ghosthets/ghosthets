@@ -16,7 +16,7 @@ ghosthets/README.md<br>👋 Hi there, I'm @ghosthets 👻<br>🌐 About Me<br>Cy
 ![](https://github-profile-trophy.vercel.app/?username=ghosthets&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](The quieter you become, the more you are able to hear.)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ghosthets&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -24,11 +24,7 @@ ghosthets/README.md<br>👋 Hi there, I'm @ghosthets 👻<br>🌐 About Me<br>Cy
 ---
 [![](https://visitcount.itsvg.in/api?id=ghosthets&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with @ghosthets -->
-> **“The quieter you become, the more you are able to hear.”**  
-> *- who am i*
-
-<!---
+<!-- Proudly created @ghosthets -->
 ghosthets/ghosthets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
