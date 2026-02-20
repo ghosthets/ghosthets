@@ -1,14 +1,6 @@
 <div align="center">
 <br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-ghosthets-0d0d0d?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghosthets)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ghosthets-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghosthets)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-ghosthets-0d0d0d?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ghosthets@proton.me)
-
 </div>
-
----
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3670A0)
@@ -30,9 +22,6 @@
 ![Tor](https://img.shields.io/badge/Tor-0d0d0d?style=flat-square&logo=tor-project&logoColor=7E4798)
 
 </div>
-
----
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=ghosthets&label=visitors&color=12&icon=7&pretty=false)](https://visitcount.itsvg.in)
