@@ -1,7 +1,4 @@
 <div align="center">
-  
-`[>.]`
-  
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-ghosthets-0d0d0d?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghosthets)
