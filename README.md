@@ -1,39 +1,26 @@
 <div align="center">
 
-# 🗂️ Ghosthets 
+# 🛠️ SYSTEM_GHOSTHETS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghosthets) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ghosthets) [![Email](https://img.shields.io/badge/Email-ghosthets%40proton.me-000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ghosthets@proton.me)
-
-<br/>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghosthets) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ghosthets) [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ghosthets@proton.me)
 
 <br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ghosthets&theme=tokyonight&no-frame=true&column=7&margin-w=15)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python) ![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B) ![Shell](https://img.shields.io/badge/Shell-000?style=flat&logo=gnu-bash) ![JavaScript](https://img.shields.io/badge/JS-000?style=flat&logo=javascript) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask) ![Nginx](https://img.shields.io/badge/Nginx-000?style=flat&logo=nginx) ![Cisco](https://img.shields.io/badge/Cisco-000?style=flat&logo=cisco) ![RaspberryPi](https://img.shields.io/badge/RPi-000?style=flat&logo=raspberry-pi) ![Arduino](https://img.shields.io/badge/Arduino-000?style=flat&logo=arduino) ![TOR](https://img.shields.io/badge/TOR-000?style=flat&logo=tor-project)
+
+<br/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ghosthets&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghosthets&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghosthets&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&sideNums=ffffff&sideLabels=9f9f9f&dates=9f9f9f)
+
+<br/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ghosthets&theme=darkhub&no-frame=true&margin-w=4)
 
 ---
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ghosthets&theme=tokyonight&hide_border=true&show_icons=true" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosthets&theme=tokyonight&hide_border=true&layout=compact" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghosthets&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ghosthets&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%" />
-
-<br/>
-
-`Node: Secure` | `System: Active` | [![](https://visitcount.itsvg.in/api?id=ghosthets&icon=5&color=0)](https://visitcount.itsvg.in)
+`SESSION_LOG:` [![](https://visitcount.itsvg.in/api?id=ghosthets&icon=0&color=ffffff)](https://visitcount.itsvg.in)
 
 </div>
