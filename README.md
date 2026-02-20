@@ -27,10 +27,10 @@ ghost@terminal:~$ whoami
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=ghosthets&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=39d353&include_all_commits=false&count_private=false" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosthets&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" height="150"/>
+<img src="https://github-readme-stats.anuraghazra.dev/api?username=ghosthets&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=39d353" height="150"/>
+<img src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=ghosthets&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" height="150"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghosthets&theme=transparent&hide_border=true&stroke=333&ring=39d353&fire=39d353&currStreakLabel=ffffff&sideLabels=888888&dates=555555"/>
+<img src="https://streak-stats.demolab.com?user=ghosthets&theme=transparent&hide_border=true&stroke=333333&ring=39d353&fire=39d353&currStreakLabel=ffffff&sideLabels=888888&dates=555555"/>
 
 ---
 
