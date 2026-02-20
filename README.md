@@ -59,14 +59,7 @@
 ![VMware](https://img.shields.io/badge/VMware-0d0d0d?style=flat-square&logo=vmware&logoColor=607078) 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-0d0d0d?style=flat-square&logo=virtualbox&logoColor=183A61) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d0d0d?style=flat-square&logo=cloudflare&logoColor=F38020) 
-
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=F24E1E) 
-![Notion](https://img.shields.io/badge/Notion-0d0d0d?style=flat-square&logo=notion&logoColor=white) 
-![Obsidian](https://img.shields.io/badge/Obsidian-0d0d0d?style=flat-square&logo=obsidian&logoColor=7C3AED) 
-![Discord](https://img.shields.io/badge/Discord-0d0d0d?style=flat-square&logo=discord&logoColor=5865F2)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d0d0d?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![Kaggle](https://img.shields.io/badge/Kaggle-0d0d0d?style=flat-square&logo=kaggle&logoColor=20BEFF)
 
 ![Roboflow](https://img.shields.io/badge/Roboflow-0d0d0d?style=flat-square&logo=roboflow&logoColor=purple)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=EE4C2C)
@@ -78,8 +71,6 @@
 
 ![CUDA](https://img.shields.io/badge/CUDA-0d0d0d?style=flat-square&logo=nvidia&logoColor=76B900)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d0d0d?style=flat-square&logo=jupyter&logoColor=F37626)
-![Google Colab](https://img.shields.io/badge/Google_Colab-0d0d0d?style=flat-square&logo=googlecolab&logoColor=F9AB00)
-![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=flat-square&logo=langchain&logoColor=1C3C3C)
 ![Ollama](https://img.shields.io/badge/Ollama-0d0d0d?style=flat-square&logo=ollama&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=2496ED)
