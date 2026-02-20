@@ -1,37 +1,51 @@
+<div align="center">
+
 ```
-ghost@terminal:~$ whoami
-> building things quietly.
+ ██████  ██   ██  ██████  ███████ ████████ ██   ██ ███████ ████████ ███████
+██       ██   ██ ██    ██ ██         ██    ██   ██ ██         ██    ██
+██   ███ ███████ ██    ██ ███████    ██    ███████ █████      ██    ███████
+██    ██ ██   ██ ██    ██      ██    ██    ██   ██ ██         ██         ██
+ ██████  ██   ██  ██████  ███████    ██    ██   ██ ███████    ██    ███████
 ```
 
-[![Instagram](https://img.shields.io/badge/instagram-ghosthets-111?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ghosthets)
-[![LinkedIn](https://img.shields.io/badge/linkedin-ghosthets-111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghosthets)
-[![Email](https://img.shields.io/badge/ghosthets@proton.me-111?style=flat-square&logo=protonmail&logoColor=white)](mailto:ghosthets@proton.me)
+`building things quietly`
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-ghosthets-0d0d0d?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghosthets)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ghosthets-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghosthets)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-ghosthets-0d0d0d?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ghosthets@proton.me)
+
+</div>
 
 ---
 
-![](https://img.shields.io/badge/python-111?style=flat-square&logo=python&logoColor=3670A0)
-![](https://img.shields.io/badge/c++-111?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![](https://img.shields.io/badge/javascript-111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/html5-111?style=flat-square&logo=html5&logoColor=E34F26)
-![](https://img.shields.io/badge/css3-111?style=flat-square&logo=css3&logoColor=1572B6)
-![](https://img.shields.io/badge/shell-111?style=flat-square&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/flask-111?style=flat-square&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/nginx-111?style=flat-square&logo=nginx&logoColor=009639)
-![](https://img.shields.io/badge/apache-111?style=flat-square&logo=apache&logoColor=D42029)
-![](https://img.shields.io/badge/github_pages-111?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/pythonanywhere-111?style=flat-square&logo=pythonanywhere&logoColor=2F9FD7)
-![](https://img.shields.io/badge/raspberry_pi-111?style=flat-square&logo=raspberry-pi&logoColor=C51A4A)
-![](https://img.shields.io/badge/arduino-111?style=flat-square&logo=arduino&logoColor=00979D)
-![](https://img.shields.io/badge/cisco-111?style=flat-square&logo=cisco&logoColor=049fd9)
-![](https://img.shields.io/badge/tor-111?style=flat-square&logo=tor-project&logoColor=7E4798)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3670A0)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=1572B6)
+![Shell](https://img.shields.io/badge/Shell-0d0d0d?style=flat-square&logo=gnu-bash&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=flat-square&logo=flask&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-0d0d0d?style=flat-square&logo=nginx&logoColor=009639)
+![Apache](https://img.shields.io/badge/Apache-0d0d0d?style=flat-square&logo=apache&logoColor=D42029)
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0d0d0d?style=flat-square&logo=github&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-0d0d0d?style=flat-square&logo=pythonanywhere&logoColor=2F9FD7)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d0d0d?style=flat-square&logo=raspberry-pi&logoColor=C51A4A)
+![Arduino](https://img.shields.io/badge/Arduino-0d0d0d?style=flat-square&logo=arduino&logoColor=00979D)
+![Cisco](https://img.shields.io/badge/Cisco-0d0d0d?style=flat-square&logo=cisco&logoColor=049fd9)
+![Tor](https://img.shields.io/badge/Tor-0d0d0d?style=flat-square&logo=tor-project&logoColor=7E4798)
+
+</div>
 
 ---
 
-<img src="https://github-readme-stats.anuraghazra.dev/api?username=ghosthets&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=39d353" height="150"/>
-<img src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=ghosthets&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" height="150"/>
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ghosthets&theme=transparent&hide_border=true&stroke=333333&ring=39d353&fire=39d353&currStreakLabel=ffffff&sideLabels=888888&dates=555555"/>
+[![](https://visitcount.itsvg.in/api?id=ghosthets&label=visitors&color=12&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=ghosthets&label=%20&color=12&icon=7&pretty=false)](https://visitcount.itsvg.in)
+</div>
