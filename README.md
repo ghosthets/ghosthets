@@ -82,7 +82,7 @@
 [![](https://visitcount.itsvg.in/api?id=ghosthets&label=visitors&color=12&icon=7&pretty=false)](https://visitcount.itsvg.in)
 ## 🏴‍☠️ TryHackMe
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/SluGGer.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/ghosthets.png" alt="Your Image Badge" />
 
 
 </div>
