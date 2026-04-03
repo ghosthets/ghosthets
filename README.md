@@ -3,6 +3,7 @@
 </div>
 <div align="center">
 
+
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3670A0)
 ![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=c%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -79,5 +80,9 @@
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=ghosthets&label=visitors&color=12&icon=7&pretty=false)](https://visitcount.itsvg.in)
+## 🏴‍☠️ TryHackMe
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/SluGGer.png" alt="Your Image Badge" />
+
 
 </div>
